@@ -5,3 +5,6 @@
 
 # NVROM
 Repository for storing .nvr files for Airpod Replicas.
+
+# Project Structure
+Project is organised by product line -> chipset -> manufacturer.
